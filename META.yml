@@ -1,0 +1,12 @@
+---
+name: Acme-MemorableExit
+version: 0.27
+author:
+  - Stig Brautaset <stig@brautaset.org>
+abstract: provides an elegant way for your program to exit
+license: perl
+provides:
+  Acme::MemorableExit:
+    file: lib/Acme/MemorableExit.pm
+    version: 0.27
+generated_by: Module::Build version 0.2611

@@ -1,0 +1,11 @@
+Build.PL
+MANIFEST
+META.yml
+lib/Acme/MemorableExit.pm
+t/000compile.t
+t/001pragmas.t
+t/003pod.t
+t/004uselib.t
+Changes
+mbk/Module/Build/Kwalitee.pm
+mbk/Module/Build/Kwalitee/Util.pm
