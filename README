@@ -1,0 +1,36 @@
+NAME
+    Acme::MemorableExit - provides an elegant way for your program to exit
+
+SYNOPSIS
+      use Acme::MemorableExit;
+      fred();
+
+    or
+
+      use Acme::MemorableExit;
+      ginger();
+
+DESCRIPTION
+    This module provides not just one but *two* ways for your programs to
+    make a memorable exit. Call either of the functions "fred()" or
+    "ginger()" and watch your program waltz into oblivion.
+
+BUGS & CAVEATS
+    Using this module may cause spontaneous wear and tear on your dancing
+    shoes.
+
+AUTHOR
+    Stig Brautaset <stig@brautaset.org>
+
+CREDITS
+    Eric Sosman for this posting in comp.lang.c:
+    <http://groups.google.com/group/comp.lang.c/msg/02183002a1cf67bc>.
+
+    <http://brautaset.org/>
+
+COPYRIGHT
+    Copyright (c) 2005 Stig Brautaset.
+
+    This program is free software; you can redistribute it and/or modify it
+    under the same terms as Perl itself.
+

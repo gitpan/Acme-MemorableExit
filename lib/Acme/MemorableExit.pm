@@ -3,7 +3,7 @@ use strict;
 use warnings;
 no warnings 'recursion';
 
-our $VERSION = '0.27';
+our $VERSION = '0.28';
 
 use base qw/ Exporter /;
 our @EXPORT = qw/ &ginger &fred /;
